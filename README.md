@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website.<br>👯 I’m looking to collaborate on JavaScript.<br>🤝 I’m looking for help with web developement.<br>🌱 I’m currently learning Full-stack Web development.<br>💬 Ask me about Boeing-737.<br>⚡ Fun fact I like working out at the gym.
+🔭 I’m currently working on my portfolio website.<br>👯 I’m looking to collaborate on JavaScript.<br>🤝 I’m looking for help with web developement.<br>🌱 I’m currently learning Full-stack Web development.<br>💬 Ask me about Boeing-737.<br>⚡ Fun fact I was an aviation mechanic.
 
 
 ## 🌐 Socials:
