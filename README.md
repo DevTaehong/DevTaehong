@@ -1,7 +1,7 @@
 # GitHub for Taehong Min.
 
 My name is Taehong. Welcome to my GitHub page.  
-Today is Tuesday, July 19 in Utah.  
+Today is Tuesday, July 19 in Nova Scotia.  
 
 I am a recent IT Programming graudate at Nova Scotia Community College, born and raised in South Korea, now based in Canada.
 
