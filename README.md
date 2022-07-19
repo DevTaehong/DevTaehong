@@ -1,3 +1,10 @@
+# GitHub for Taehong Min.
+
+My name is Taehong. Welcome to my GitHub page.  
+Today is Tuesday, July 19 in Utah.  
+
+I am a recent IT Programming graudate at Nova Scotia Community College, born and raised in South Korea, now based in Canada.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevTaehong&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevTaehong&theme=dark&hide_border=false)<br/>
