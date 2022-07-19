@@ -2,7 +2,7 @@
 
 My name is Taehong. Welcome to my GitHub page.  
 
-I am a recent IT Programming graudate at Nova Scotia Community College, born and raised in South Korea, now based in Canada.
+I am a recent IT Programming graudate at NSCC, born and raised in South Korea, now based in Canada.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevTaehong&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
