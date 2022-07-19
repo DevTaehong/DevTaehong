@@ -1,4 +1,4 @@
-# GitHub for Taehong Min.
+# GitHub for Taehong Min
 
 My name is Taehong. Welcome to my GitHub page.  
 
