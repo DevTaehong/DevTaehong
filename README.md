@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=000000&background=FFFFFF00&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<h3 align="center">
+  Welcome to Taehong Min's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<h4 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=000000&center=true&lines=Full-stack+web+developer;Always+learning+new+things)](https://git.io/typing-svg)
+</h4>  
+
+
+
 # GitHub for Taehong Min
 
 My name is Taehong. Welcome to my GitHub page.  
