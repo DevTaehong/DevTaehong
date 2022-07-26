@@ -19,6 +19,7 @@ I am a recent IT Programming graudate at NSCC, born and raised in South Korea, n
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ---
