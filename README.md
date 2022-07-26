@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h4 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=000000&center=true&lines=Full-stack+web+developer;Always+learning+new+things)](https://git.io/typing-svg)
-</h4>  
-
-
-
 # GitHub for Taehong Min
 
 My name is Taehong. Welcome to my GitHub page.  
@@ -23,6 +17,9 @@ I am a recent IT Programming graudate at NSCC, born and raised in South Korea, n
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevTaehong&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
