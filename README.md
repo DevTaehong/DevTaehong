@@ -22,7 +22,5 @@ I am a recent IT Programming graudate at NSCC, born and raised in South Korea, n
 [![](https://visitcount.itsvg.in/api?id=DevTaehong&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-
-'''text
-'''
+[SHOW_COMMIT]
 <!--END_SECTION:waka-->
