@@ -15,7 +15,7 @@ I am a recent IT Programming graudate at NSCC, born and raised in South Korea, n
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTaehong&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
