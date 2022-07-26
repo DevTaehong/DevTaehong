@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=000000&background=FFFFFF00&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 # GitHub for Taehong Min
 
 My name is Taehong. Welcome to my GitHub page.  
