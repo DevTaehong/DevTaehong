@@ -13,17 +13,17 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.c2c72f7f-94fc-4250-817b-391e4dacd8bc }}
           GH_TOKEN: ${{ secrets.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 }}
-          SHOW_UPDATED_DATE: True
-          SHOW_LINES_OF_CODE: True
-          SHOW_TOTAL_CODE_TIME: True
-          SHOW_COMMI: True
-          SHOW_DAYS_OF_WEEK: True
-          SHOW_LANGUAGE: True
-          SHOW_OS: True
-          SHOW_PROJECTS: True
-          SHOW_TIMEZONE: True
-          SHOW_EDITORS: True
-          SHOW_LANGUAGE_PER_REPO: True
-          SHOW_SHORT_INFO: True
-          SHOW_LOC_CHART: True
+          SHOW_UPDATED_DATE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMI: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "True"
           
