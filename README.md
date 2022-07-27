@@ -31,7 +31,7 @@ I am a recent IT Programming graudate at NSCC, born and raised in South Korea, n
 
 
 # 📊 GitHub Stats:
-<a href="https://taehongmin.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=devtaehong&theme=vue-dark&hide_border=false" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+<a href="https://taehongmin.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
