@@ -1,9 +1,12 @@
+<!--
 <h3 align="center">
   Welcome to Taehong Min's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+-->
 
-# GitHub for Taehong Min
+[![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/71358207/181136426-ec446316-d1c3-458b-b71d-14048f947c41.gif)](https://taehongmin.netlify.app)
+
+# GitHub for Taehong Min <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 My name is Taehong. Welcome to my GitHub page.  
 
