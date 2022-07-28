@@ -8,7 +8,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub for Taehong Min 
 
 My name is Taehong. Welcome to my GitHub page.  
-I am a recent IT Programming graudate at NSCC, born and raised in South Korea, now based in Canada.
+I am a recent IT Programming graduate at NSCC, born and raised in South Korea, and now based in Canada.
 
 # 💻 Tech Stack
 ### Laguages
