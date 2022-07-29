@@ -46,13 +46,9 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
     <summary>📈 This Week's Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 362 Contributions in the Year 2022
+> 🏆 357 Contributions in the Year 2022
  > 
 > 📦 230.4 kB Used in GitHub's Storage 
  > 
@@ -65,22 +61,22 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌆 Daytime    162 commits    █████████░░░░░░░░░░░░░░░░   35.53% 
-🌃 Evening    171 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
-🌙 Night      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.31%
+🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+🌆 Daytime    162 commits    ████████░░░░░░░░░░░░░░░░░   35.37% 
+🌃 Evening    171 commits    █████████░░░░░░░░░░░░░░░░   37.34% 
+🌙 Night      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Tuesday      91 commits     █████░░░░░░░░░░░░░░░░░░░░   19.96% 
-Wednesday    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Saturday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Sunday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.87%
+Monday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Tuesday      91 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
+Wednesday    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Friday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Saturday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+Sunday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
 
 ```
 
@@ -124,7 +120,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 03:06:05 UTC
+ Last Updated on 29/07/2022 03:17:21 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
