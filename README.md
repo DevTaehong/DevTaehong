@@ -42,6 +42,9 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 ---
 [![](https://visitcount.itsvg.in/api?id=DevTaehong&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
+<details>
+    <summary>📈 This Week's Coding Stats</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -118,3 +121,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
  Last Updated on 29/07/2022 02:31:51 UTC
 <!--END_SECTION:waka-->
+
+These Readme stats are generated using github action awesome-readme-stats
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
