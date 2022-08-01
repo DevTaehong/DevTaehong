@@ -33,7 +33,8 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 
 # 📊 GitHub Stats
 <a href="https://taehongmin.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
-
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
 
