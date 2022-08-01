@@ -43,6 +43,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevTaehong&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
 
 <details>
     <summary>📈 This Week's Coding Stats</summary>
