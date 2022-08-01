@@ -40,6 +40,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 <details>
     <summary>📈 This Week's Coding Stats</summary>
 
