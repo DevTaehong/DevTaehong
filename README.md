@@ -37,7 +37,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
 
-
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
