@@ -50,13 +50,13 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 383 Contributions in the Year 2022
+> 🏆 474 Contributions in the Year 2022
  > 
-> 📦 230.6 kB Used in GitHub's Storage 
+> 📦 229.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -89,16 +89,16 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-HTML                     20 mins             █████████████████████████   100.0%
+HTML                     16 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+VS Code                  16 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-simplefolio              20 mins             █████████████████████████   100.0%
+simplefolio              16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.0%
+Mac                      16 mins             █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +119,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2022 21:21:02 UTC
+ Last Updated on 04/08/2022 09:20:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
