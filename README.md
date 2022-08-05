@@ -41,7 +41,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# My contribution graph get eaten by the snake 🐍
+# 🐍 My contribution graph get eaten by the snake 
 ![snake gif](https://github.com/devtaehong/devtaehong/blob/output/github-contribution-grid-snake.svg)
 
 <details>
