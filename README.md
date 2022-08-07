@@ -89,16 +89,18 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-HTML                     7 mins              █████████████████████████   100.0%
+C#                       42 mins             ██████████████████░░░░░░░   72.83% 
+HTML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   27.17%
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+VS Code                  36 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-simplefolio              7 mins              █████████████████████████   100.0%
+CSharp                   42 mins             ██████████████████░░░░░░░   72.83% 
+simplefolio              15 mins             ██████░░░░░░░░░░░░░░░░░░░   27.17%
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.0%
+Mac                      36 mins             █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +121,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2022 21:20:06 UTC
+ Last Updated on 07/08/2022 09:21:08 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
