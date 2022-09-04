@@ -102,7 +102,8 @@ es2020                   19 mins             ██░░░░░░░░░�
 Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.0%
+"ES10-Exercise.js"       0 secs              ████████████░░░░░░░░░░░░░   50.9% 
+"advanced-looping-exercis0 secs              ████████████░░░░░░░░░░░░░   49.1%
 
 ```
 
@@ -123,7 +124,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 21:21:05 UTC
+ Last Updated on 04/09/2022 04:27:24 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
