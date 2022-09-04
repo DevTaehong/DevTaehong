@@ -60,53 +60,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-🌆 Daytime    215 commits    █████████░░░░░░░░░░░░░░░░   39.09% 
-🌃 Evening    194 commits    ████████░░░░░░░░░░░░░░░░░   35.27% 
-🌙 Night      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-Sunday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Halifax
-
-💬 Programming Languages: 
-JavaScript               3 hrs 1 min         █████████████████████████   99.61% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-🔥 Editors: 
-Sublime Text             3 hrs 2 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-advanced_exercise_es10   1 hr 39 mins        █████████████░░░░░░░░░░░░   54.43% 
-advanced_exercise_looping54 mins             ███████░░░░░░░░░░░░░░░░░░   30.05% 
-es2020                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
-
-💻 Operating System: 
-"ES10-Exercise.js"       0 secs              ████████████░░░░░░░░░░░░░   50.9% 
-"advanced-looping-exercis0 secs              ████████████░░░░░░░░░░░░░   49.1%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -124,7 +77,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 04:27:24 UTC
+ Last Updated on 04/09/2022 09:22:26 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
