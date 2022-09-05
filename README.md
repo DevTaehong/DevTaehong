@@ -50,7 +50,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 530 Contributions in the Year 2022
+> 🏆 534 Contributions in the Year 2022
  > 
 > 📦 233.6 kB Used in GitHub's Storage 
  > 
@@ -58,27 +58,27 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-🌆 Daytime    217 commits    █████████░░░░░░░░░░░░░░░░   39.31% 
-🌃 Evening    194 commits    ████████░░░░░░░░░░░░░░░░░   35.14% 
-🌙 Night      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
+🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+🌆 Daytime    217 commits    █████████░░░░░░░░░░░░░░░░   39.1% 
+🌃 Evening    196 commits    ████████░░░░░░░░░░░░░░░░░   35.32% 
+🌙 Night      57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
-Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
+Monday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
+Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Sunday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81%
 
 ```
 
@@ -128,7 +128,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 15:24:22 UTC
+ Last Updated on 05/09/2022 21:23:20 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
