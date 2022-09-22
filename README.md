@@ -57,9 +57,9 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -125,7 +125,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 21:22:53 UTC
+ Last Updated on 22/09/2022 04:48:07 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
