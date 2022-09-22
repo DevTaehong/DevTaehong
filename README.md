@@ -53,7 +53,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 
 > 🏆 555 Contributions in the Year 2022
  > 
-> 📦 239.0 kB Used in GitHub's Storage 
+> 📦 238.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +90,20 @@ Sunday       63 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-JavaScript               3 hrs 8 mins        ███████████████████████░░   95.01% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+HTML                     25 mins             ███████████████████░░░░░░   78.12% 
+JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.0%
+VS Code                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Downloads                2 hrs 18 mins       █████████████████░░░░░░░░   69.93% 
-smartbrain_api           56 mins             ███████░░░░░░░░░░░░░░░░░░   28.48% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+simplefolio              26 mins             ████████████████████░░░░░   81.01% 
+smartbrain_api           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.99%
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.0%
+Mac                      32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +124,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 04:48:07 UTC
+ Last Updated on 22/09/2022 09:28:16 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
