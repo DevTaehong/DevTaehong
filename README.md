@@ -53,7 +53,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 
 > 🏆 555 Contributions in the Year 2022
  > 
-> 📦 238.9 kB Used in GitHub's Storage 
+> 📦 239.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,20 +90,20 @@ Sunday       63 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-HTML                     25 mins             ███████████████████░░░░░░   78.12% 
-JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
+HTML                     25 mins             ████████████████████░░░░░   80.44% 
+JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-simplefolio              26 mins             ████████████████████░░░░░   81.01% 
-smartbrain_api           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.99%
+simplefolio              26 mins             ████████████████████░░░░░   83.42% 
+smartbrain_api           5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.58%
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.0%
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +124,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 04:51:55 UTC
+ Last Updated on 23/09/2022 09:30:08 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
