@@ -44,7 +44,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats
-<a href="https://taehongmin.netlify.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+<a href="https://github.com/DevTaehong/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 # 🌐 Socials
