@@ -31,16 +31,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### ☁️ Hosting/SaaS
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-
-### 🎨 Design
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
-
-### 🔬CI
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 # 📊 GitHub Stats
 <a href="https://github.com/DevTaehong/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevTaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaehong&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 <br/>
