@@ -50,55 +50,37 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 630 Contributions in the Year 2022
+> 🏆 644 Contributions in the Year 2022
  > 
-> 📦 246.6 kB Used in GitHub's Storage 
+> 📦 258.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 24 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-🌆 Daytime    257 commits    ██████████░░░░░░░░░░░░░░░   40.41% 
-🌃 Evening    217 commits    ████████░░░░░░░░░░░░░░░░░   34.12% 
-🌙 Night      57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
-Friday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Saturday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Sunday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SCSS                     2 hrs 44 mins       ███████████████████░░░░░░   79.24% 
+CSS                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+simplefolio              3 hrs 1 min         █████████████████████░░░░   87.36% 
+Top 101 Projects         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Hover-master             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,12 +96,8 @@ PHP                      3 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/DevTaehong/DevTaehong/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 21:24:11 UTC
+ Last Updated on 05/12/2022 14:21:50 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
