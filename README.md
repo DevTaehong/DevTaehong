@@ -37,9 +37,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # 🐍 My contribution graph get eaten by the snake 
 ![snake gif](https://github.com/devtaehong/devtaehong/blob/output/github-contribution-grid-snake.svg)
 
@@ -47,6 +44,9 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
     <summary>📈 This Week's Coding Stats</summary>
 ---->
 <br/>
+
+---
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -99,6 +99,8 @@ PHP                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 05/12/2022 14:21:50 UTC
 <!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 <!-- </details> -->
