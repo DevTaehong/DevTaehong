@@ -43,7 +43,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 <!-- <details>
     <summary>📈 This Week's Coding Stats</summary>
 ---->
-<br/>
 
 ---
 
