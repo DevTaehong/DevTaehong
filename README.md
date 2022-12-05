@@ -27,7 +27,6 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
@@ -44,8 +43,9 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 # 🐍 My contribution graph get eaten by the snake 
 ![snake gif](https://github.com/devtaehong/devtaehong/blob/output/github-contribution-grid-snake.svg)
 
-<details>
+<!-- <details>
     <summary>📈 This Week's Coding Stats</summary>
+---->
 <br/>
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -123,6 +123,6 @@ PHP                      3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-</details>
+<!-- </details> -->
 
 ![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
