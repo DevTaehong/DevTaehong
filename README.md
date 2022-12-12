@@ -63,20 +63,16 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-SCSS                     42 mins             ██████████████████████░░░   89.18% 
-HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-simplefolio              44 mins             ███████████████████████░░   95.15% 
-Top 101 Projects         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-Hover-master             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,7 +89,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 03:23:36 UTC
+ Last Updated on 12/12/2022 09:17:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
