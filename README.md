@@ -47,7 +47,7 @@ I am a recent IT Programming graduate at NSCC, born and raised in South Korea, a
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 646 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 275.4 kB Used in GitHub's Storage 
  > 
@@ -97,7 +97,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 21:14:19 UTC
+ Last Updated on 01/01/2023 03:22:14 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
