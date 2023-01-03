@@ -3,8 +3,6 @@
   Welcome to Taehong Min's profile!
 </h3>
 -->
-[![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/71358207/181141229-a1946f72-2781-4197-9419-f4d1b5625b1b.gif)](https://github.com/DevTaehong)
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub for Taehong Min 
 
 My name is Taehong. Welcome to my GitHub page.  
