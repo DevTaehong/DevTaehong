@@ -62,17 +62,16 @@ My name is Taehong. Welcome to my GitHub page.
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Text                     0 secs              ██████████████████░░░░░░░   73.0% 
-HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   27.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laurtann.github.io-9fc6a10 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,7 +88,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2023 03:18:04 UTC
+ Last Updated on 15/01/2023 09:15:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
