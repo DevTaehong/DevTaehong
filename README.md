@@ -48,7 +48,7 @@ My name is Taehong. Welcome to my GitHub page.
 
 > 🏆 38 Contributions in the Year 2023
  > 
-> 📦 365.3 kB Used in GitHub's Storage 
+> 📦 365.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +88,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 21:15:41 UTC
+ Last Updated on 19/01/2023 03:20:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
