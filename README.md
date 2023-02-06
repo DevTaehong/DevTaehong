@@ -62,16 +62,20 @@ My name is Taehong. Welcome to my GitHub page.
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               41 mins             ██████████████████████░░░   90.76% 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                43 mins             ████████████████████████░   95.54% 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
+portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +92,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 03:18:36 UTC
+ Last Updated on 06/02/2023 09:17:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
