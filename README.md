@@ -48,7 +48,7 @@ My name is Taehong. Welcome to my GitHub page.
 
 > 🏆 50 Contributions in the Year 2023
  > 
-> 📦 404.3 kB Used in GitHub's Storage 
+> 📦 404.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,16 +62,16 @@ My name is Taehong. Welcome to my GitHub page.
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-CSS                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +88,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2023 03:22:19 UTC
+ Last Updated on 17/02/2023 09:16:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
