@@ -48,7 +48,7 @@ My name is Taehong. Welcome to my GitHub page.
 
 > 🏆 50 Contributions in the Year 2023
  > 
-> 📦 404.2 kB Used in GitHub's Storage 
+> 📦 404.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,15 +80,15 @@ No Activity Tracked This Week
 ```text
 JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   31.43 % 
 C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 15:17:39 UTC
+ Last Updated on 21/02/2023 21:15:03 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
