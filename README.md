@@ -46,20 +46,20 @@ My name is Taehong. Welcome to my GitHub page.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 50 Contributions in the Year 2023
- > 
 > 📦 404.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 50 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Halifax
+🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -72,23 +72,22 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   31.43 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
- Last Updated on 22/02/2023 15:17:58 UTC
+
+ Last Updated on 23/02/2023 01:21:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
