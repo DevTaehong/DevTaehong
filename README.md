@@ -46,7 +46,7 @@ My name is Taehong. Welcome to my GitHub page.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 404.3 kB Used in GitHub's Storage 
+> 📦 404.2 kB Used in GitHub's Storage 
  > 
 > 🏆 50 Contributions in the Year 2023
  > 
@@ -87,7 +87,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:21:45 UTC
+ Last Updated on 23/02/2023 21:15:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
