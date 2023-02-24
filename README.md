@@ -62,16 +62,21 @@ My name is Taehong. Welcome to my GitHub page.
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Twig                     37 mins             ███████████████████░░░░░░   74.86 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+house-quest-build        38 mins             ███████████████████░░░░░░   75.57 % 
+house-quest-templates-mai12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +92,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2023 06:22:04 UTC
+ Last Updated on 24/02/2023 09:16:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
