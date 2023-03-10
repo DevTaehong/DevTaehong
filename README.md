@@ -62,16 +62,16 @@ My name is Taehong. Welcome to my GitHub page.
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-HTML                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio                3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 06:22:41 UTC
+ Last Updated on 10/03/2023 09:17:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
