@@ -63,16 +63,21 @@ My name is Taehong. Welcome to my GitHub page.
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           3 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.13 % 
+JavaScript               2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+QuotesApp                6 hrs 40 mins       ████████████████████████░   97.32 % 
+QuotesApp-addReact       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +93,7 @@ TSQL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2023 03:15:45 UTC
+ Last Updated on 05/05/2023 06:19:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
