@@ -49,7 +49,7 @@ My name is Taehong. Welcome to my GitHub page.
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 490.4 kB Used in GitHub's Storage 
+> 📦 490.5 kB Used in GitHub's Storage 
  > 
 > 🏆 100 Contributions in the Year 2023
  > 
@@ -90,7 +90,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2023 21:12:54 UTC
+ Last Updated on 08/06/2023 01:27:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
