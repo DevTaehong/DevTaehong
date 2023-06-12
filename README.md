@@ -51,13 +51,13 @@ My name is Taehong. Welcome to my GitHub page.
 
 > 📦 490.5 kB Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2023
+> 🏆 108 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -87,17 +87,17 @@ Mac                      1 hr 17 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 11/06/2023 21:12:22 UTC
+ Last Updated on 12/06/2023 01:37:01 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
