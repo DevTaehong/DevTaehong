@@ -8,7 +8,7 @@
 My name is Taehong. Welcome to my GitHub page.  
 
 
-### 🖥️  Projects
+# 🖥️  Projects
 <!-- table -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
