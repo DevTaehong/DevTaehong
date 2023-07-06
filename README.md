@@ -120,8 +120,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <!-- </details> -->
 
 ![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=http%3A%2F%2Fgithub.com%2FDevTaehong&label=VISITORS%20TODAY&countColor=%23263759)
-
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDevTaehong&label=VISITORS%20TODAY&countColor=%23263759)
 
 
 
