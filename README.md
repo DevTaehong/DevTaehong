@@ -64,7 +64,7 @@ My name is Taehong. Welcome to my GitHub page.
 
 > 📦 556.6 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2023
+> 🏆 177 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ Mac                      38 hrs 55 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
 C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
@@ -111,7 +111,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2023 15:17:21 UTC
+ Last Updated on 11/07/2023 18:20:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
