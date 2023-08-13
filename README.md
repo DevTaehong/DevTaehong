@@ -7,7 +7,7 @@
 
 👋 Hey there, I'm Taehong Min!
 
-💻 Fluent in React, JavaScript, and SQL. Crafting clean and efficient code is my forte. I thrive on challenges that push my coding skills to new heights.
+💻 Fluent in React, and JavaScript. Crafting clean and efficient code is my forte. I thrive on challenges that push my coding skills to new heights.
 
 🚀 When I'm not immersed in code, you'll find me hitting the gym or exploring new workout routines. I believe in the power of a healthy body to fuel a creative mind.
 
