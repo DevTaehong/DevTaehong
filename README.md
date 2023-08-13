@@ -5,8 +5,15 @@
 -->
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub for Taehong Min 
 
-My name is Taehong. Welcome to my GitHub page.  
+👋 Hey there, I'm Taehong Min!
 
+💻 Fluent in React, JavaScript, and SQL. Crafting clean and efficient code is my forte. I thrive on challenges that push my coding skills to new heights.
+
+🚀 When I'm not immersed in code, you'll find me hitting the gym or exploring new workout routines. I believe in the power of a healthy body to fuel a creative mind.
+
+🔗 Currently, I'm delving into projects that merge my programming skills with my love for fitness, aiming to bridge the gap between technology and wellness.
+
+🌐 Connect with me and let's collaborate on exciting projects that fuse programming and passions!
 
 # 🖥️  Projects
 <!-- table -->
