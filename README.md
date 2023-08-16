@@ -58,8 +58,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
 
 # 🐍 My contribution graph get eaten by the snake 
-![snake gif](https://github.com/devtaehong/devtaehong/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Shows snake in light mode and dark mode." src="https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg">
+</picture>
+<!--
+![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake-dark.svg)
+---->
 <!-- <details>
     <summary>📈 This Week's Coding Stats</summary>
 ---->
