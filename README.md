@@ -77,69 +77,7 @@
 ![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake-dark.svg)
 ---->
-<details>
-    <summary>📈 This Week's Coding Stats</summary>
 
-
----
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 580.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1,052 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Halifax
-
-💬 Programming Languages: 
-TypeScript               14 hrs 34 mins      ██████████████████░░░░░░░   71.02 % 
-TSQL                     5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-ActionScript 3           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 30 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Cohort5_AlgoAlliance_Hipn20 hrs 16 mins      █████████████████████████   98.81 % 
-exercise-9-DevTaehong    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Worksheet_Backend        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-💻 Operating System: 
-Mac                      20 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.82 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-```
-
-
-
-
- Last Updated on 23/10/2023 18:18:05 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-</details>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
