@@ -7,7 +7,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub for Taehong Min 
 
-👋 Hey there, I'm Taehong Min!
+👋 Hey there, I'm Taehong Min  !
 
 💻 Fluent in React, and JavaScript. Crafting clean and efficient code is my forte. I thrive on challenges that push my coding skills to new heights.
 
