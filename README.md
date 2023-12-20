@@ -2,7 +2,7 @@
 <h3 align="center">
   Welcome to Taehong Min's profile!
 </h3>
--->
+
 ![github-header-image](https://github.com/DevTaehong/DevTaehong/assets/71358207/4d29daf5-55b9-4319-ac54-17ec81a41d69)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> GitHub for Taehong Min 
@@ -85,6 +85,5 @@
 ![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
 --->
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDevTaehong&label=VISITORS%20TODAY&countColor=%23263759)
-
 
 
