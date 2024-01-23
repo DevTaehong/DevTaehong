@@ -1,4 +1,3 @@
-<!--
 <h3 align="center">
   Welcome to Taehong Min's profile!
 </h3>
@@ -16,7 +15,7 @@
 🔗 Currently, I'm delving into projects that merge my programming skills with my love for fitness, aiming to bridge the gap between technology and wellness.
 
 🌐 Connect with me and let's collaborate on exciting projects that fuse programming and passions!
-<!---
+
 # 🖥️  Projects
 
 | Year | Title                                    | Technologies                           |
@@ -27,7 +26,7 @@
 | 2022 | [Local Note App](https://github.com/devTaehong/Local_Note_App) |![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
 | 2022 | [Real Time Flight Tracker](https://github.com/devTaehong/Real_Time_Flight_Tracker) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | 2020 | [Information on countries of the world](https://github.com/devTaehong/Information-on-countries-of-the-world) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
---->
+
 # 💻 Tech Stack
 ### 📋 Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -62,11 +61,11 @@
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!--
+
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taehong) 
---->
-<!---
+
+
 # 🐍 My contribution graph get eaten by the snake 
 
 <picture>
@@ -74,16 +73,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg">
   <img alt="Shows snake in light mode and dark mode." src="https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg">
 </picture>
---->
 <!--
 ![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/DevTaehong/DevTaehong/blob/output/github-contribution-grid-snake-dark.svg)
 ---->
 
 
-<!---
+
 ![](https://komarev.com/ghpvc/?username=devtaehong&style=for-the-badge)
---->
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDevTaehong&label=VISITORS%20TODAY&countColor=%23263759)
 
 
