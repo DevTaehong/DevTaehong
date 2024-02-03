@@ -15,7 +15,7 @@
 🔗 Currently, I'm delving into projects that merge my programming skills with my love for fitness, aiming to bridge the gap between technology and wellness.
 
 🌐 Connect with me and let's collaborate on exciting projects that fuse programming and passions!
-
+<!--
 # 🖥️  Projects
 
 | Year | Title                                    | Technologies                           |
@@ -26,6 +26,7 @@
 | 2022 | [Local Note App](https://github.com/devTaehong/Local_Note_App) |![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
 | 2022 | [Real Time Flight Tracker](https://github.com/devTaehong/Real_Time_Flight_Tracker) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | 2020 | [Information on countries of the world](https://github.com/devTaehong/Information-on-countries-of-the-world) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+-->
 
 # 💻 Tech Stack
 ### 📋 Languages 
